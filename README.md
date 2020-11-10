@@ -1,5 +1,5 @@
 # arduino
-Unfinished project of gowbox on arduino mega.
+Unfinished project of growbox on arduino mega.
 
 Now works all basic function which need for growing any plant: 
 1) Day night function
