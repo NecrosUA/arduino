@@ -1,5 +1,6 @@
 # arduino
-Unfinished project of gowbox on arduino mega 
+Unfinished project of gowbox on arduino mega.
+
 Now works: 
 1) Day night function
 2) Automatic watering
